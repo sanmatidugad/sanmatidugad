@@ -1,4 +1,4 @@
-### Sanmati Dugad 👋
+### I am Sanmati Dugad 👋
 
 #### Bioinformatician - II
 #### Currently working at:  Genomic Expression Inc
