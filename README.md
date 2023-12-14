@@ -4,8 +4,8 @@
 #### Currently working at:  Genomic Expression Inc
 #### Professional Expertise:  
 Bioinformatics Pipelines, \
-Genomic Data Analysis (bulk RNASeq and single-cell RNASeq data analysis),\
-Statistical Analysis, \
+Next Generation Sequencing Data Analysis (bulk RNASeq and single-cell RNASeq),\
+Statistical Analysis, (Biostatistics, Inferential Statistics, Basic Visualizations, Regression, Model Fitness Estimations, Multivariate data analysis ) \
 Machine Learning, \
 Protein Bioinformatics (Molecular Dynamic Simulations Data Analysis,  Molecular Docking, Network Analysis, Homology Modeling) \
 Target Identification and Drug Discovery
