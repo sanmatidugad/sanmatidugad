@@ -1,6 +1,6 @@
 ### I am Sanmati Dugad. 👋
 
-#### Bioinformatician - Data Analyst
+#### Bioinformatician
 #### Currently working at:  Genomic Expression Inc
 #### Professional Expertise:  
 Bioinformatics Pipelines, \
