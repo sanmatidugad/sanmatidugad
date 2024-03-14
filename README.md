@@ -2,7 +2,7 @@
 
 #### Bioinformatician - Computational Biologist, Data Analyst
 #### Currently working at:  Genomic Expression Inc
-#### Professional Expertise:  
+#### Professional Expertise:
 Bioinformatics Pipelines, \
 Next Generation Sequencing Data Analysis (bulk RNASeq and single-cell RNASeq),\
 Statistical Analysis, \
