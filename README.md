@@ -1,8 +1,7 @@
-### I am Sanmati Dugad. 👋
-
-#### Bioinformatician - Computational Biologist, Data Analyst
+#### Data Analyst, Bioinformatician - Computational Biologist
 
 #### Professional Expertise:
+* MRI Imaging Data Analysis
 * Automatation of Bioinformatics Pipelines (Nextflow, Miniwdl, Parallel Processing - AWS)
 * Next Generation Sequencing Data Analysis (DNA-Seq, bulk RNA-Seq, single-cell RNA-Seq, ATAC-Seq, CITE-Seq and eQTL Mapping)
 * Statistical Analysis
