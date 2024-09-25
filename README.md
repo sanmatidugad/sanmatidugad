@@ -1,4 +1,4 @@
-#### I am a Sr. Data Analyst, and a Bioinformatician - Computational Biologist
+#### I am a Sr. Data Analyst and a Bioinformatician
 
 #### Professional Expertise:
 * MRI Imaging Data Analysis - Fetal Data Processing
