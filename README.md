@@ -1,8 +1,8 @@
 #### I am a Sr. Data Analyst and a Bioinformatician
 
 #### Professional Expertise:
-* MRI Data Analysis - Fetal and Infant Data Processing
-* Automatation of Bioinformatics Pipelines (Nextflow, Miniwdl, Parallel Processing - AWS)
+* MRI Data Analysis - Fetal and Infant Data Processing (Automating and Containerizing Pipelines)
+* Automatation of Bioinformatics Pipelines (Nextflow, SnakeMake, Miniwdl, Parallel Processing - AWS)
 * Next Generation Sequencing Data Analysis (DNA-Seq, bulk RNA-Seq, single-cell RNA-Seq, ATAC-Seq, CITE-Seq and eQTL Mapping)
 * Statistical Analysis
 * Machine Learning
